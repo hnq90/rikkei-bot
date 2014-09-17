@@ -1,2 +1,1 @@
-web: bin/hubot -a campfire -n rikkei-bot
-web: bin/hubot --adapter slack
+web: bin/hubot -a slack
